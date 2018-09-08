@@ -4,11 +4,10 @@ Here is a list of what I believe are the 10 Practical Steps for Data Science:
 
 1 - Programming
 
-1.1. Python - https://www.codecademy.com/learn/learn-python  
-1.2 R - https://www.datacamp.com/courses/free-introduction-to-r  
-1.3 SQL - https://community.modeanalytics.com/sql/tutorial/sql-business-analytics-training
-
-1.4 Command Line - https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/
+  1.1 : Python - https://www.codecademy.com/learn/learn-python  
+  1.2 : R - https://www.datacamp.com/courses/free-introduction-to-r  
+  1.3 : SQL - https://community.modeanalytics.com/sql/tutorial/sql-business-analytics-training  
+  1.4 : Command Line - https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line
 
 2 - Stats/Prob/Math 
 

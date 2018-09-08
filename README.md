@@ -22,14 +22,14 @@ Here is a list of what I believe are the 10 Practical Steps for Data Science:
 
 4 - Data Manipulation 
 
-4.1 Python Pandas - https://www.kaggle.com/learn/pandas
-4.2 R dplyr - http://genomicsclass.github.io/book/pages/dplyr_tutorial.html
+4.1 Python Pandas - https://www.kaggle.com/learn/pandas  
+4.2 R R dplyr - http://genomicsclass.github.io/book/pages/dplyr_tutorial.html
 
 5 - Machine Learning 
 
-5.1 Google Crash Course - https://developers.google.com/machine-learning/crash-course/
-5.2 Stanford Coursera - https://www.class-central.com/course/coursera-machine-learning-835
-5.3 ISLR Book - https://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf
+5.1 Google Crash Course - https://developers.google.com/machine-learning/crash-course  
+5.2 Standard Coursea - https://www.class-central.com/course/coursera-machine-learning-835
+5.3 ISLR Book - https://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf  
 
 6 - Experimental Design 
 
